@@ -1,4 +1,4 @@
-##About PEDAL Lab
+** **About PEDAL Lab
 > The Policy and Economics of Disability, Aging, and Long Term Care (PEDAL) lab is based at the Perelman School of Medicine at the University of Pennsylvania. Our mission is to study issues centered around aging and disability, including long-term care (LTC), end of life care (EOL), and Alzheimer’s Disease and Related Dementias (ADRD) and to provide policymakers the evidence-base to improve care for older adults and reduce spending.
 
 #Norma B. Coe, Ph.D.
